@@ -1,0 +1,4 @@
+(executable
+ (public_name task10)
+ (name main)
+ (libraries task10))
