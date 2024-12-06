@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/task12/META"
+  "_build/install/default/lib/task12/dune-package"
+  "_build/install/default/lib/task12/opam"
+]
+bin: [
+  "_build/install/default/bin/task12"
+]
