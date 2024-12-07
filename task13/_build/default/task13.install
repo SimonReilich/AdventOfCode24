@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/task13/META"
+  "_build/install/default/lib/task13/dune-package"
+  "_build/install/default/lib/task13/opam"
+]
+bin: [
+  "_build/install/default/bin/task13"
+]
