@@ -1,8 +1,0 @@
-lib: [
-  "_build/install/default/lib/task5/META"
-  "_build/install/default/lib/task5/dune-package"
-  "_build/install/default/lib/task5/opam"
-]
-bin: [
-  "_build/install/default/bin/task5"
-]

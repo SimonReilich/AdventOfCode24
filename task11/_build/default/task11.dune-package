@@ -1,4 +1,0 @@
-(lang dune 3.15)
-(name task11)
-(sections (lib .) (bin ../../bin))
-(files (lib (META dune-package opam)) (bin (task11)))
