@@ -1,0 +1,4 @@
+(lang dune 3.15)
+(name day10_1)
+(sections (lib .) (bin ../../bin))
+(files (lib (META dune-package opam)) (bin (day10_1)))
